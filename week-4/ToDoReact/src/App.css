@@ -1,0 +1,71 @@
+.myheader{
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 6px 0px;
+  margin: 2px 0px;
+}
+
+.myheader-txt{
+  text-align: center;
+}
+
+.textbox{
+  padding: 4px 4px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  width: 100%;
+  margin-top: 4px;
+}
+
+.user-input{
+  margin: 2px 2px;
+}
+
+.btn{
+  margin: 2px 2px;
+  padding: 4px 18px;
+  background-color: #99B2DD;
+  border: 1px solid #99B2DD;
+  border-radius: 4px;
+}
+
+.edit-btn{
+  margin: 2px 2px;
+  padding: 4px 18px;
+  background-color: #9DFFF9;
+  border: 1px solid #9DFFF9;
+  border-radius: 4px;
+}
+
+.del-btn{
+  margin: 2px 2px;
+  padding: 4px 18px;
+  background-color: #C62E65;
+  border: 1px solid #C62E65;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.show-todo{
+  margin: 10px 2px;
+  padding: 2px 2px;
+  border: 1px solid #ccc;
+  /* width: 25%; */
+}
+
+.show-todo h3{
+  background-color: #aaa;
+  text-align: center;
+  padding: 4px 2px;
+}
+
+.show-todo p{
+  background-color: #ddd;
+  text-align: center;
+  padding: 4px 2px;
+}
+
+.container{
+  width: 35%;
+  margin: 0px auto;
+}
